@@ -1,0 +1,7 @@
+:root{
+  --bg:#0b0b0f;
+  --ui:#0f1720;
+  --accent:#86f0e6;
+}
+html,body{height:100%;margin:0;background:var(--bg);display:flex;align-items:center;justify-content:center}
+canvas{width:100vw;height:100vh;max-height:100dvh;display:block}
